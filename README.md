@@ -1,2 +1,0 @@
-# PianoTiles
-Piano Tiles bot
